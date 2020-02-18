@@ -1,0 +1,7 @@
+*.pyc
+*.npy
+*.html
+*.ipynb
+test.py
+saved_model/
+checkpoint/
